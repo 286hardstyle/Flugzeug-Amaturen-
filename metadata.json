@@ -1,0 +1,5 @@
+{
+  "name": "Airplane Dashboard",
+  "description": "An interactive flight instrument panel (Flugzeugarmaturen) built with Angular.",
+  "requestFramePermissions": []
+}
